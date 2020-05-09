@@ -6,4 +6,4 @@ TODO:
 * Explanation of gradient descent in multivariate linear regression.
 * Graph plot of regression model w.r.t test data.
 * Animated graphy of gradient descent in action.
-* Implemenation of stocastic and mini-batch gradient descent.
+* Implemenation of stocastic gradient descent.
